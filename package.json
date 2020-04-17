@@ -1,0 +1,25 @@
+{
+  "name": "node-simple-app",
+  "version": "1.0.0",
+  "description": "A simple web app in vanilla nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple-app",
+    "nodejs",
+    "webapp",
+    "markdown-file",
+    "json-file",
+    "no-database"
+  ],
+  "author": "Simone \"Magicianred\" Paolucci",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http-status-codes": "^1.4.0",
+    "markdown-it": "^10.0.0",
+    "vash": "^0.13.0"
+  }
+}
